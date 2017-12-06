@@ -15,7 +15,7 @@
     "lib": ["es2015", "dom"]
   },
   "include": [
-    "angular2-toaster.ts",
+    "angular2-toaster-bettericons.ts",
     "src/**/*"
   ],
   "exclude": [
